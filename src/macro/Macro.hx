@@ -33,7 +33,7 @@ typedef SuperlativeSettings = {
 class Macro
 {
 	public static final defaultSettings:SuperlativeSettings = {
-		showMacro: true,
+		showMacro: false,
 		includeAll: false,
 		loopCost: 25
 	}
